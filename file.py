@@ -7,3 +7,5 @@ num=30
 num=50
 num=60
 num=70
+num = 80
+
