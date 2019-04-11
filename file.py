@@ -6,3 +6,4 @@ num=40
 num=30
 num=50
 num=60
+num=70
